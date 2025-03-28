@@ -53,7 +53,7 @@ body {
     background-color: #ad03d8;
 }
 
-#city {
+#city, #pays{
     font-size: 24px;
     color: #333;
     margin-bottom: 12px;
